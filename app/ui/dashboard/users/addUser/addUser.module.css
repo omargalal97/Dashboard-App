@@ -39,3 +39,10 @@
     border-radius: 5px;
     cursor: pointer;
   }
+
+  .guide {
+    
+    display: block;
+    align-items: center;
+    justify-content: center;
+  }

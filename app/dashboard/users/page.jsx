@@ -15,6 +15,7 @@ export default async function Users({searchParams}) {
   // console.log(page)
   return (
     <div className={style.container}>
+
       <div className={style.top}>
         <Search placeholder='search for users'/>
         <Link href='/dashboard/users/add'>
